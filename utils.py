@@ -74,10 +74,9 @@ class VirtualMachine:
 
     def process_network_queue(self):
         """Processes one message from the network queue if available."""
-        if not self.network_queue.empty():
-            sender_id, timestamp = self.network_queue.get()
-            self.logical_clock.update(timestamp)
-            self.log_event(f"Processed message from Machine {sender_id} | Logical Clock: {self.logical_clock.time}")
+        sender_id, timestamp = self.network_queue.get()
+        self.logical_clock.update(timestamp)
+        self.log_event(f"Processed message from Machine {sender_id} | Logical Clock: {self.logical_clock.time}")
 
     def log_event(self, event):
         """Logs events to a file."""
@@ -93,21 +92,19 @@ class VirtualMachine:
         while True:
             start_time = time.time()
 
-            # Check and process one message from the network queue per tick
-            self.process_network_queue()
-
-            # Decide next action if no message was processed
-            action = random.randint(1, 10)
-            if action == 1:
-                self.send_message(random.choice(self.peers))
-            elif action == 2:
-                self.send_message(random.choice(self.peers))
-            elif action == 3:
-                for peer in self.peers:
-                    self.send_message(peer)
+            if not self.network_queue.empty()
+                # Check and process one message from the network queue per tick
+                self.process_network_queue()
             else:
-                self.logical_clock.tick()
-                self.log_event(f"Internal Event | Logical Clock: {self.logical_clock.time}")
-
-            # Sleep based on clock speed (simulate limited instructions per second)
-            time.sleep(max(0, (1 / self.clock_speed) - (time.time() - start_time)))
+                # Decide next action if no message was processed
+                action = random.randint(1, 10)
+                if action == 1:
+                    self.send_message(self.peers[0])
+                elif action == 2:
+                    self.send_message(self.peers[1])
+                elif action == 3:
+                    for peer in self.peers:
+                        self.send_message(peer)
+                else:
+                    self.logical_clock.tick()
+                    self.log_event(f"Internal Event | Logical Clock: {self.logical_clock.time}")
