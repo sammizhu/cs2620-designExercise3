@@ -1,0 +1,388 @@
+[1740930325.405206] Started with clock speed 5
+[1740930325.405393] Internal Event | Logical Clock: 1
+[1740930325.6107361] Internal Event | Logical Clock: 2
+[1740930326.014747] Internal Event | Logical Clock: 4
+[1740930336.405654] Started with clock speed 6
+[1740930336.406773] Internal Event | Logical Clock: 1
+[1740930336.578648] Internal Event | Logical Clock: 2
+[1740930336.7488608] Internal Event | Logical Clock: 3
+[1740930336.920418] Internal Event | Logical Clock: 4
+[1740930337.097857] Sent message to Machine 5001 | Logical Clock: 5
+[1740930337.264381] Internal Event | Logical Clock: 6
+[1740930337.4340138] Internal Event | Logical Clock: 7
+[1740930337.608672] Sent message to Machine 5001 | Logical Clock: 8
+[1740930337.6114821] Sent message to Machine 5003 | Logical Clock: 9
+[1740930337.620808] Queued message from Machine 3 with timestamp 12
+[1740930337.7745469] Processed message from Machine 3 | Logical Clock: 13
+[1740930337.7750862] Internal Event | Logical Clock: 14
+[1740930337.88337] Queued message from Machine 1 with timestamp 11
+[1740930337.943412] Processed message from Machine 1 | Logical Clock: 15
+[1740930337.945032] Sent message to Machine 5001 | Logical Clock: 16
+[1740930337.9462779] Sent message to Machine 5003 | Logical Clock: 17
+[1740930338.113232] Sent message to Machine 5001 | Logical Clock: 18
+[1740930338.283193] Internal Event | Logical Clock: 19
+[1740930338.456324] Sent message to Machine 5001 | Logical Clock: 20
+[1740930338.460604] Sent message to Machine 5003 | Logical Clock: 21
+[1740930338.5575209] Queued message from Machine 1 with timestamp 18
+[1740930338.622326] Processed message from Machine 1 | Logical Clock: 22
+[1740930338.624939] Sent message to Machine 5001 | Logical Clock: 23
+[1740930338.6267688] Sent message to Machine 5003 | Logical Clock: 24
+[1740930338.8000262] Sent message to Machine 5001 | Logical Clock: 25
+[1740930338.893952] Queued message from Machine 1 with timestamp 21
+[1740930338.9655879] Processed message from Machine 1 | Logical Clock: 26
+[1740930338.9659572] Internal Event | Logical Clock: 27
+[1740930339.1379058] Sent message to Machine 5001 | Logical Clock: 28
+[1740930339.142425] Sent message to Machine 5003 | Logical Clock: 29
+[1740930339.3043258] Sent message to Machine 5001 | Logical Clock: 30
+[1740930339.474858] Internal Event | Logical Clock: 31
+[1740930339.652352] Sent message to Machine 5001 | Logical Clock: 32
+[1740930339.814715] Internal Event | Logical Clock: 33
+[1740930339.978079] Queued message from Machine 3 with timestamp 32
+[1740930339.985434] Processed message from Machine 3 | Logical Clock: 34
+[1740930339.9859781] Internal Event | Logical Clock: 35
+[1740930340.157232] Internal Event | Logical Clock: 36
+[1740930340.243484] Queued message from Machine 1 with timestamp 30
+[1740930340.327094] Processed message from Machine 1 | Logical Clock: 37
+[1740930340.327289] Internal Event | Logical Clock: 38
+[1740930340.502937] Sent message to Machine 5001 | Logical Clock: 39
+[1740930340.5054111] Sent message to Machine 5003 | Logical Clock: 40
+[1740930340.673389] Sent message to Machine 5001 | Logical Clock: 41
+[1740930340.847487] Sent message to Machine 5001 | Logical Clock: 42
+[1740930341.0104058] Internal Event | Logical Clock: 43
+[1740930341.1822138] Internal Event | Logical Clock: 44
+[1740930341.3302422] Queued message from Machine 3 with timestamp 45
+[1740930341.34941] Processed message from Machine 3 | Logical Clock: 46
+[1740930341.3496141] Internal Event | Logical Clock: 47
+[1740930341.521369] Internal Event | Logical Clock: 48
+[1740930341.692708] Sent message to Machine 5001 | Logical Clock: 49
+[1740930341.6946719] Sent message to Machine 5003 | Logical Clock: 50
+[1740930341.866994] Sent message to Machine 5003 | Logical Clock: 51
+[1740930342.033658] Internal Event | Logical Clock: 52
+[1740930342.203821] Internal Event | Logical Clock: 53
+[1740930342.372014] Internal Event | Logical Clock: 54
+[1740930342.5445042] Sent message to Machine 5001 | Logical Clock: 55
+[1740930342.599066] Queued message from Machine 1 with timestamp 48
+[1740930342.714147] Processed message from Machine 1 | Logical Clock: 56
+[1740930342.714527] Internal Event | Logical Clock: 57
+[1740930342.886016] Internal Event | Logical Clock: 58
+[1740930343.020006] Queued message from Machine 3 with timestamp 58
+[1740930343.0544279] Processed message from Machine 3 | Logical Clock: 59
+[1740930343.054621] Internal Event | Logical Clock: 60
+[1740930343.231292] Sent message to Machine 5001 | Logical Clock: 61
+[1740930343.235064] Sent message to Machine 5003 | Logical Clock: 62
+[1740930343.401328] Sent message to Machine 5001 | Logical Clock: 63
+[1740930343.576735] Sent message to Machine 5001 | Logical Clock: 64
+[1740930343.581355] Sent message to Machine 5003 | Logical Clock: 65
+[1740930343.6085482] Queued message from Machine 1 with timestamp 57
+[1740930343.741288] Processed message from Machine 1 | Logical Clock: 66
+[1740930343.7418618] Internal Event | Logical Clock: 67
+[1740930343.910199] Internal Event | Logical Clock: 68
+[1740930343.94946] Queued message from Machine 1 with timestamp 59
+[1740930344.0251021] Queued message from Machine 3 with timestamp 69
+[1740930344.0787818] Processed message from Machine 1 | Logical Clock: 69
+[1740930344.079306] Internal Event | Logical Clock: 70
+[1740930344.2478368] Processed message from Machine 3 | Logical Clock: 71
+[1740930344.253516] Sent message to Machine 5001 | Logical Clock: 72
+[1740930344.259218] Sent message to Machine 5003 | Logical Clock: 73
+[1740930344.416826] Sent message to Machine 5001 | Logical Clock: 74
+[1740930344.418158] Sent message to Machine 5003 | Logical Clock: 75
+[1740930344.586953] Internal Event | Logical Clock: 76
+[1740930344.7623198] Sent message to Machine 5001 | Logical Clock: 77
+[1740930344.767358] Sent message to Machine 5003 | Logical Clock: 78
+[1740930344.934519] Sent message to Machine 5003 | Logical Clock: 79
+[1740930345.045452] Queued message from Machine 3 with timestamp 81
+[1740930345.100638] Processed message from Machine 3 | Logical Clock: 82
+[1740930345.101084] Internal Event | Logical Clock: 83
+[1740930345.272594] Internal Event | Logical Clock: 84
+[1740930345.4413362] Sent message to Machine 5003 | Logical Clock: 85
+[1740930345.6115751] Internal Event | Logical Clock: 86
+[1740930345.72136] Queued message from Machine 3 with timestamp 88
+[1740930345.781318] Processed message from Machine 3 | Logical Clock: 89
+[1740930345.781587] Internal Event | Logical Clock: 90
+[1740930345.953295] Internal Event | Logical Clock: 91
+[1740930345.974972] Queued message from Machine 1 with timestamp 77
+[1740930346.121957] Processed message from Machine 1 | Logical Clock: 92
+[1740930346.122617] Internal Event | Logical Clock: 93
+[1740930346.2959208] Sent message to Machine 5001 | Logical Clock: 94
+[1740930346.300286] Sent message to Machine 5003 | Logical Clock: 95
+[1740930346.457411] Internal Event | Logical Clock: 96
+[1740930346.629146] Internal Event | Logical Clock: 97
+[1740930346.732762] Queued message from Machine 3 with timestamp 99
+[1740930346.797744] Processed message from Machine 3 | Logical Clock: 100
+[1740930346.7983701] Internal Event | Logical Clock: 101
+[1740930346.967447] Internal Event | Logical Clock: 102
+[1740930347.139067] Internal Event | Logical Clock: 103
+[1740930347.3153431] Sent message to Machine 5003 | Logical Clock: 104
+[1740930347.485606] Sent message to Machine 5001 | Logical Clock: 105
+[1740930347.650145] Internal Event | Logical Clock: 106
+[1740930347.82215] Internal Event | Logical Clock: 107
+[1740930347.9938529] Internal Event | Logical Clock: 108
+[1740930348.163966] Internal Event | Logical Clock: 109
+[1740930348.337323] Sent message to Machine 5001 | Logical Clock: 110
+[1740930348.3424199] Sent message to Machine 5003 | Logical Clock: 111
+[1740930348.5028381] Internal Event | Logical Clock: 112
+[1740930348.6747541] Internal Event | Logical Clock: 113
+[1740930348.846657] Internal Event | Logical Clock: 114
+[1740930349.0182478] Internal Event | Logical Clock: 115
+[1740930349.194667] Sent message to Machine 5003 | Logical Clock: 116
+[1740930349.3595378] Sent message to Machine 5003 | Logical Clock: 117
+[1740930349.530077] Internal Event | Logical Clock: 118
+[1740930349.701071] Internal Event | Logical Clock: 119
+[1740930349.872818] Internal Event | Logical Clock: 120
+[1740930350.041497] Internal Event | Logical Clock: 121
+[1740930350.2145128] Sent message to Machine 5001 | Logical Clock: 122
+[1740930350.218935] Sent message to Machine 5003 | Logical Clock: 123
+[1740930350.380476] Internal Event | Logical Clock: 124
+[1740930350.552385] Internal Event | Logical Clock: 125
+[1740930350.723259] Internal Event | Logical Clock: 126
+[1740930350.895007] Internal Event | Logical Clock: 127
+[1740930351.041704] Queued message from Machine 1 with timestamp 126
+[1740930351.066428] Processed message from Machine 1 | Logical Clock: 128
+[1740930351.0692239] Sent message to Machine 5001 | Logical Clock: 129
+[1740930351.070891] Sent message to Machine 5003 | Logical Clock: 130
+[1740930351.248278] Sent message to Machine 5003 | Logical Clock: 131
+[1740930351.407062] Internal Event | Logical Clock: 132
+[1740930351.5780008] Internal Event | Logical Clock: 133
+[1740930351.7490408] Internal Event | Logical Clock: 134
+[1740930351.9263291] Sent message to Machine 5003 | Logical Clock: 135
+[1740930352.092574] Internal Event | Logical Clock: 136
+[1740930352.265291] Sent message to Machine 5003 | Logical Clock: 137
+[1740930352.4314492] Internal Event | Logical Clock: 138
+[1740930352.460237] Queued message from Machine 3 with timestamp 139
+[1740930352.598497] Processed message from Machine 3 | Logical Clock: 140
+[1740930352.600124] Sent message to Machine 5001 | Logical Clock: 141
+[1740930352.601281] Sent message to Machine 5003 | Logical Clock: 142
+[1740930352.7196941] Queued message from Machine 1 with timestamp 140
+[1740930352.7679858] Processed message from Machine 1 | Logical Clock: 143
+[1740930352.77145] Sent message to Machine 5003 | Logical Clock: 144
+[1740930352.945312] Sent message to Machine 5003 | Logical Clock: 145
+[1740930353.110312] Internal Event | Logical Clock: 146
+[1740930353.2836869] Sent message to Machine 5001 | Logical Clock: 147
+[1740930353.4502249] Internal Event | Logical Clock: 148
+[1740930353.6173198] Internal Event | Logical Clock: 149
+[1740930353.792841] Sent message to Machine 5003 | Logical Clock: 150
+[1740930353.799731] Queued message from Machine 3 with timestamp 149
+[1740930353.9607239] Processed message from Machine 3 | Logical Clock: 151
+[1740930353.967387] Sent message to Machine 5003 | Logical Clock: 152
+[1740930354.1346161] Sent message to Machine 5003 | Logical Clock: 153
+[1740930354.2988641] Internal Event | Logical Clock: 154
+[1740930354.470685] Internal Event | Logical Clock: 155
+[1740930354.640634] Internal Event | Logical Clock: 156
+[1740930354.810432] Internal Event | Logical Clock: 157
+[1740930354.982167] Internal Event | Logical Clock: 158
+[1740930355.153874] Internal Event | Logical Clock: 159
+[1740930355.323395] Internal Event | Logical Clock: 160
+[1740930355.492227] Internal Event | Logical Clock: 161
+[1740930355.6641579] Internal Event | Logical Clock: 162
+[1740930355.833556] Internal Event | Logical Clock: 163
+[1740930356.0052512] Internal Event | Logical Clock: 164
+[1740930356.103169] Queued message from Machine 1 with timestamp 158
+[1740930356.154187] Queued message from Machine 3 with timestamp 164
+[1740930356.1746151] Processed message from Machine 1 | Logical Clock: 165
+[1740930356.1747851] Internal Event | Logical Clock: 166
+[1740930356.346637] Processed message from Machine 3 | Logical Clock: 167
+[1740930356.353132] Sent message to Machine 5001 | Logical Clock: 168
+[1740930356.5245728] Sent message to Machine 5003 | Logical Clock: 169
+[1740930356.6899781] Internal Event | Logical Clock: 170
+[1740930356.8603652] Internal Event | Logical Clock: 171
+[1740930357.0281951] Internal Event | Logical Clock: 172
+[1740930357.204267] Sent message to Machine 5001 | Logical Clock: 173
+[1740930357.210146] Sent message to Machine 5003 | Logical Clock: 174
+[1740930357.376035] Sent message to Machine 5001 | Logical Clock: 175
+[1740930357.3799412] Sent message to Machine 5003 | Logical Clock: 176
+[1740930357.445822] Queued message from Machine 1 with timestamp 175
+[1740930357.501296] Queued message from Machine 3 with timestamp 177
+[1740930357.542099] Processed message from Machine 1 | Logical Clock: 177
+[1740930357.543553] Sent message to Machine 5001 | Logical Clock: 178
+[1740930357.7140841] Processed message from Machine 3 | Logical Clock: 179
+[1740930357.714667] Internal Event | Logical Clock: 180
+[1740930357.787702] Queued message from Machine 1 with timestamp 178
+[1740930357.882578] Processed message from Machine 1 | Logical Clock: 181
+[1740930357.883053] Internal Event | Logical Clock: 182
+[1740930358.054369] Internal Event | Logical Clock: 183
+[1740930358.1877341] Queued message from Machine 3 with timestamp 182
+[1740930358.2244968] Processed message from Machine 3 | Logical Clock: 184
+[1740930358.228527] Sent message to Machine 5003 | Logical Clock: 185
+[1740930358.396283] Internal Event | Logical Clock: 186
+[1740930358.564215] Internal Event | Logical Clock: 187
+[1740930358.7363489] Sent message to Machine 5003 | Logical Clock: 188
+[1740930358.899387] Internal Event | Logical Clock: 189
+[1740930359.077023] Sent message to Machine 5001 | Logical Clock: 190
+[1740930359.241285] Internal Event | Logical Clock: 191
+[1740930359.4101539] Internal Event | Logical Clock: 192
+[1740930359.587313] Sent message to Machine 5001 | Logical Clock: 193
+[1740930359.7499788] Internal Event | Logical Clock: 194
+[1740930359.9216142] Internal Event | Logical Clock: 195
+[1740930360.0897431] Internal Event | Logical Clock: 196
+[1740930360.265586] Sent message to Machine 5003 | Logical Clock: 197
+[1740930360.43069] Internal Event | Logical Clock: 198
+[1740930360.478289] Queued message from Machine 1 with timestamp 201
+[1740930360.533298] Queued message from Machine 3 with timestamp 201
+[1740930360.597857] Processed message from Machine 1 | Logical Clock: 202
+[1740930360.6025028] Sent message to Machine 5003 | Logical Clock: 203
+[1740930360.76964] Processed message from Machine 3 | Logical Clock: 204
+[1740930360.7703092] Internal Event | Logical Clock: 205
+[1740930360.81902] Queued message from Machine 1 with timestamp 203
+[1740930360.939578] Processed message from Machine 1 | Logical Clock: 206
+[1740930360.940406] Internal Event | Logical Clock: 207
+[1740930361.1077561] Internal Event | Logical Clock: 208
+[1740930361.213768] Queued message from Machine 3 with timestamp 207
+[1740930361.279447] Processed message from Machine 3 | Logical Clock: 209
+[1740930361.2800682] Internal Event | Logical Clock: 210
+[1740930361.450003] Internal Event | Logical Clock: 211
+[1740930361.61935] Internal Event | Logical Clock: 212
+[1740930361.791138] Internal Event | Logical Clock: 213
+[1740930361.8334029] Queued message from Machine 1 with timestamp 209
+[1740930361.960487] Processed message from Machine 1 | Logical Clock: 214
+[1740930361.965835] Sent message to Machine 5003 | Logical Clock: 215
+[1740930362.1321962] Internal Event | Logical Clock: 216
+[1740930362.303468] Sent message to Machine 5003 | Logical Clock: 217
+[1740930362.4678762] Internal Event | Logical Clock: 218
+[1740930362.509718] Queued message from Machine 1 with timestamp 211
+[1740930362.636845] Processed message from Machine 1 | Logical Clock: 219
+[1740930362.637014] Internal Event | Logical Clock: 220
+[1740930362.811594] Sent message to Machine 5001 | Logical Clock: 221
+[1740930362.816522] Sent message to Machine 5003 | Logical Clock: 222
+[1740930362.892681] Queued message from Machine 3 with timestamp 224
+[1740930362.973205] Processed message from Machine 3 | Logical Clock: 225
+[1740930362.974017] Internal Event | Logical Clock: 226
+[1740930363.145866] Internal Event | Logical Clock: 227
+[1740930363.3164868] Internal Event | Logical Clock: 228
+[1740930363.49389] Sent message to Machine 5001 | Logical Clock: 229
+[1740930363.6598568] Internal Event | Logical Clock: 230
+[1740930363.830992] Internal Event | Logical Clock: 231
+[1740930364.008897] Sent message to Machine 5001 | Logical Clock: 232
+[1740930364.1789062] Sent message to Machine 5003 | Logical Clock: 233
+[1740930364.190249] Queued message from Machine 1 with timestamp 234
+[1740930364.341658] Processed message from Machine 1 | Logical Clock: 235
+[1740930364.341758] Internal Event | Logical Clock: 236
+[1740930364.5137222] Internal Event | Logical Clock: 237
+[1740930364.580597] Queued message from Machine 3 with timestamp 236
+[1740930364.6848068] Processed message from Machine 3 | Logical Clock: 238
+[1740930364.685447] Internal Event | Logical Clock: 239
+[1740930364.856809] Internal Event | Logical Clock: 240
+[1740930365.0281222] Internal Event | Logical Clock: 241
+[1740930365.1994271] Internal Event | Logical Clock: 242
+[1740930365.200499] Queued message from Machine 1 with timestamp 237
+[1740930365.370402] Processed message from Machine 1 | Logical Clock: 243
+[1740930365.370552] Internal Event | Logical Clock: 244
+[1740930365.549025] Sent message to Machine 5003 | Logical Clock: 245
+[1740930365.711052] Internal Event | Logical Clock: 246
+[1740930365.881381] Internal Event | Logical Clock: 247
+[1740930366.052481] Internal Event | Logical Clock: 248
+[1740930366.2128189] Queued message from Machine 1 with timestamp 242
+[1740930366.219472] Processed message from Machine 1 | Logical Clock: 249
+[1740930366.220632] Internal Event | Logical Clock: 250
+[1740930366.3899589] Internal Event | Logical Clock: 251
+[1740930366.569367] Sent message to Machine 5001 | Logical Clock: 252
+[1740930366.734058] Internal Event | Logical Clock: 253
+[1740930366.901474] Internal Event | Logical Clock: 254
+[1740930367.073066] Internal Event | Logical Clock: 255
+[1740930367.249793] Sent message to Machine 5003 | Logical Clock: 256
+[1740930367.411677] Internal Event | Logical Clock: 257
+[1740930367.579417] Internal Event | Logical Clock: 258
+[1740930367.604396] Queued message from Machine 3 with timestamp 260
+[1740930367.747523] Processed message from Machine 3 | Logical Clock: 261
+[1740930367.748236] Internal Event | Logical Clock: 262
+[1740930367.924615] Sent message to Machine 5003 | Logical Clock: 263
+[1740930368.090604] Internal Event | Logical Clock: 264
+[1740930368.262211] Internal Event | Logical Clock: 265
+[1740930368.434067] Internal Event | Logical Clock: 266
+[1740930368.6017559] Internal Event | Logical Clock: 267
+[1740930368.6257951] Queued message from Machine 3 with timestamp 268
+[1740930368.7740889] Processed message from Machine 3 | Logical Clock: 269
+[1740930368.774761] Internal Event | Logical Clock: 270
+[1740930368.941041] Internal Event | Logical Clock: 271
+[1740930369.11745] Sent message to Machine 5003 | Logical Clock: 272
+[1740930369.293001] Sent message to Machine 5003 | Logical Clock: 273
+[1740930369.458207] Sent message to Machine 5001 | Logical Clock: 274
+[1740930369.460625] Sent message to Machine 5003 | Logical Clock: 275
+[1740930369.626671] Internal Event | Logical Clock: 276
+[1740930369.7980201] Internal Event | Logical Clock: 277
+[1740930369.9713721] Sent message to Machine 5001 | Logical Clock: 278
+[1740930370.138943] Internal Event | Logical Clock: 279
+[1740930370.310473] Internal Event | Logical Clock: 280
+[1740930370.4838662] Sent message to Machine 5001 | Logical Clock: 281
+[1740930370.485439] Sent message to Machine 5003 | Logical Clock: 282
+[1740930370.6538901] Internal Event | Logical Clock: 283
+[1740930370.825846] Internal Event | Logical Clock: 284
+[1740930370.997369] Internal Event | Logical Clock: 285
+[1740930371.172839] Sent message to Machine 5001 | Logical Clock: 286
+[1740930371.177872] Sent message to Machine 5003 | Logical Clock: 287
+[1740930371.261707] Queued message from Machine 1 with timestamp 288
+[1740930371.334645] Processed message from Machine 1 | Logical Clock: 289
+[1740930371.335525] Internal Event | Logical Clock: 290
+[1740930371.503159] Internal Event | Logical Clock: 291
+[1740930371.6000671] Queued message from Machine 1 with timestamp 289
+[1740930371.674885] Processed message from Machine 1 | Logical Clock: 292
+[1740930371.6755369] Internal Event | Logical Clock: 293
+[1740930371.843083] Internal Event | Logical Clock: 294
+[1740930372.014957] Internal Event | Logical Clock: 295
+[1740930372.1858401] Internal Event | Logical Clock: 296
+[1740930372.356396] Internal Event | Logical Clock: 297
+[1740930372.528126] Internal Event | Logical Clock: 298
+[1740930372.699283] Sent message to Machine 5001 | Logical Clock: 299
+[1740930372.874447] Sent message to Machine 5001 | Logical Clock: 300
+[1740930373.008478] Queued message from Machine 3 with timestamp 295
+[1740930373.041047] Processed message from Machine 3 | Logical Clock: 301
+[1740930373.041624] Internal Event | Logical Clock: 302
+[1740930373.212796] Internal Event | Logical Clock: 303
+[1740930373.3838232] Internal Event | Logical Clock: 304
+[1740930373.5554209] Internal Event | Logical Clock: 305
+[1740930373.623839] Queued message from Machine 1 with timestamp 304
+[1740930373.7231581] Processed message from Machine 1 | Logical Clock: 306
+[1740930373.723884] Internal Event | Logical Clock: 307
+[1740930373.896615] Sent message to Machine 5001 | Logical Clock: 308
+[1740930373.960293] Queued message from Machine 1 with timestamp 310
+[1740930374.063359] Processed message from Machine 1 | Logical Clock: 311
+[1740930374.063848] Internal Event | Logical Clock: 312
+[1740930374.2339299] Internal Event | Logical Clock: 313
+[1740930374.4067268] Sent message to Machine 5001 | Logical Clock: 314
+[1740930374.5761511] Internal Event | Logical Clock: 315
+[1740930374.752573] Sent message to Machine 5001 | Logical Clock: 316
+[1740930374.919611] Internal Event | Logical Clock: 317
+[1740930375.031672] Queued message from Machine 3 with timestamp 317
+[1740930375.089689] Processed message from Machine 3 | Logical Clock: 318
+[1740930375.09041] Internal Event | Logical Clock: 319
+[1740930375.25794] Internal Event | Logical Clock: 320
+[1740930375.362842] Queued message from Machine 3 with timestamp 318
+[1740930375.429355] Processed message from Machine 3 | Logical Clock: 321
+[1740930375.429538] Internal Event | Logical Clock: 322
+[1740930375.6013272] Internal Event | Logical Clock: 323
+[1740930375.7729762] Internal Event | Logical Clock: 324
+[1740930375.9443579] Internal Event | Logical Clock: 325
+[1740930376.116454] Internal Event | Logical Clock: 326
+[1740930376.288157] Internal Event | Logical Clock: 327
+[1740930376.456932] Internal Event | Logical Clock: 328
+[1740930376.624628] Internal Event | Logical Clock: 329
+[1740930376.796153] Internal Event | Logical Clock: 330
+[1740930376.966313] Internal Event | Logical Clock: 331
+[1740930377.143169] Sent message to Machine 5001 | Logical Clock: 332
+[1740930377.30554] Internal Event | Logical Clock: 333
+[1740930377.387551] Queued message from Machine 3 with timestamp 330
+[1740930377.4745119] Processed message from Machine 3 | Logical Clock: 334
+[1740930377.476429] Sent message to Machine 5001 | Logical Clock: 335
+[1740930377.477765] Sent message to Machine 5003 | Logical Clock: 336
+[1740930377.646129] Internal Event | Logical Clock: 337
+[1740930377.8181381] Internal Event | Logical Clock: 338
+[1740930377.986384] Internal Event | Logical Clock: 339
+[1740930378.0029771] Queued message from Machine 1 with timestamp 338
+[1740930378.156093] Processed message from Machine 1 | Logical Clock: 340
+[1740930378.1567879] Internal Event | Logical Clock: 341
+[1740930378.325418] Sent message to Machine 5003 | Logical Clock: 342
+[1740930378.494594] Internal Event | Logical Clock: 343
+[1740930378.666523] Internal Event | Logical Clock: 344
+[1740930378.838047] Internal Event | Logical Clock: 345
+[1740930379.0099509] Internal Event | Logical Clock: 346
+[1740930379.1814559] Internal Event | Logical Clock: 347
+[1740930379.353128] Sent message to Machine 5001 | Logical Clock: 348
+[1740930379.3542159] Sent message to Machine 5003 | Logical Clock: 349
+[1740930379.523742] Internal Event | Logical Clock: 350
+[1740930379.695055] Internal Event | Logical Clock: 351
+[1740930379.867114] Internal Event | Logical Clock: 352
+[1740930380.0397289] Sent message to Machine 5003 | Logical Clock: 353
+[1740930380.2119858] Sent message to Machine 5001 | Logical Clock: 354
+[1740930380.3805041] Internal Event | Logical Clock: 355
+[1740930380.415432] Queued message from Machine 3 with timestamp 358
+[1740930380.548009] Processed message from Machine 3 | Logical Clock: 359
+[1740930380.554427] Sent message to Machine 5003 | Logical Clock: 361

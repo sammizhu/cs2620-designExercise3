@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package chat;
+
+// Message structure
+message Message {
+    int32 sender_id = 1;
+    int32 timestamp = 2;
+}
+
+// RPC service for communication
+service ChatService {
+    rpc SendMessage (Message) returns (Message);
+}
