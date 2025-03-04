@@ -92,7 +92,6 @@ class VirtualMachine:
 
         while True:
             # start_time = time.time()
-            time.sleep(1/self.clock_speed)
             if not self.network_queue.empty():
                 # Check and process one message from the network queue per tick
                 self.process_network_queue()
@@ -109,3 +108,6 @@ class VirtualMachine:
                 else:
                     self.logical_clock.tick()
                     self.log_event(f"Internal Event | Logical Clock: {self.logical_clock.time}")
+            
+            # Simulate clock speed subtracted by processing time
+            time.sleep(max(0, (1 / self.clock_speed) - (time.time() - start_time)))
