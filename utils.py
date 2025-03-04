@@ -6,6 +6,7 @@ import queue
 from concurrent import futures
 import chat_pb2
 import chat_pb2_grpc
+import datetime
 
 class LogicalClock:
     """Implements a logical clock using timestamps."""
@@ -39,7 +40,7 @@ class VirtualMachine:
         self.clock_speed = random.randint(1, 6)  
         self.logical_clock = LogicalClock()
         self.log_file = f"machine_{machine_id}.log"
-        self.network_queue = queue.Queue() 
+        self.network_queue = queue.Queue()
 
         # Start gRPC server thread
         self.server_thread = threading.Thread(target=self.start_grpc_server, daemon=True)
@@ -62,7 +63,7 @@ class VirtualMachine:
         try:
             with grpc.insecure_channel(f"localhost:{target_port}") as channel:
                 stub = chat_pb2_grpc.ChatServiceStub(channel)
-                response = stub.SendMessage(message)
+                _ = stub.SendMessage(message)
                 self.log_event(f"Sent message to Machine {target_port} | Logical Clock: {self.logical_clock.time}")
         except Exception as e:
             print(f"Failed to send message to Machine {target_port}: {e}")
@@ -81,8 +82,8 @@ class VirtualMachine:
     def log_event(self, event):
         """Logs events to a file."""
         with open(self.log_file, "a") as f:
-            print(f"MachineID: {self.machine_id} [{time.time()}] {event}\n")
-            f.write(f"[{time.time()}] {event}\n")
+            print(f"MachineID: {self.machine_id} [{datetime.datetime.now()}] {event}\n")
+            f.write(f"[{datetime.datetime.now()}] {event}\n")
 
     def run(self):
         """Main execution loop (simulating machine operations)."""
@@ -90,9 +91,9 @@ class VirtualMachine:
         self.log_event(f"Started with clock speed {self.clock_speed}")
 
         while True:
-            start_time = time.time()
-
-            if not self.network_queue.empty()
+            # start_time = time.time()
+            time.sleep(1/self.clock_speed)
+            if not self.network_queue.empty():
                 # Check and process one message from the network queue per tick
                 self.process_network_queue()
             else:
