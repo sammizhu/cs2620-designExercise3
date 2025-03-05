@@ -3,9 +3,9 @@ import re
 from datetime import datetime
 
 # Define the file paths for the three log files.
-file_vm1 = "logs/both/trial5/machine_1.log"
-file_vm2 = "logs/both/trial5/machine_2.log"
-file_vm3 = "logs/both/trial5/machine_3.log"
+file_vm1 = "logs/probability/trial5/machine_1.log"
+file_vm2 = "logs/probability/trial5/machine_2.log"
+file_vm3 = "logs/probability/trial5/machine_3.log"
 
 def parse_log_file(filepath, vm_id):
     """
@@ -86,7 +86,7 @@ df['VM_3'] = df.apply(lambda row: row['Logical Clock'] if row['VM_ID'] == 3 else
 df = df[['Global Time', 'Event', 'Logical Clock', 'Length of Queue', 'VM_ID', 'VM_1', 'VM_2', 'VM_3']]
 
 # Save the combined DataFrame to a new CSV file.
-output_filename = "Both-Trial5.csv"
+output_filename = "Probability-Trial5.csv"
 df.to_csv(output_filename, index=False)
 print(f"Combined log saved to {output_filename}")
 

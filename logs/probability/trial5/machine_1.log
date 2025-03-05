@@ -1,30 +1,3 @@
-[2025-03-05 04:05:54.792547] Started with clock speed 1
-[2025-03-05 04:05:54.792877] Internal Event | Logical Clock: 1
-[2025-03-05 04:05:54.798723] Queued message from Machine 2 with timestamp 1
-[2025-03-05 04:05:55.476817] Queued message from Machine 3 with timestamp 6
-[2025-03-05 04:05:55.798141] Processed message from Machine 2 | Logical Clock: 2 | Length of Queue: 1
-[2025-03-05 04:05:56.329647] Queued message from Machine 3 with timestamp 12
-[2025-03-05 04:05:56.497912] Queued message from Machine 3 with timestamp 13
-[2025-03-05 04:05:56.665283] Queued message from Machine 3 with timestamp 14
-[2025-03-05 04:05:56.802342] Processed message from Machine 3 | Logical Clock: 7 | Length of Queue: 3
-[2025-03-05 04:05:57.174711] Queued message from Machine 3 with timestamp 18
-[2025-03-05 04:05:57.690368] Queued message from Machine 3 with timestamp 22
-[2025-03-05 04:05:57.805920] Processed message from Machine 3 | Logical Clock: 13 | Length of Queue: 4
-[2025-03-05 04:05:58.028811] Queued message from Machine 3 with timestamp 24
-[2025-03-05 04:05:58.537412] Queued message from Machine 3 with timestamp 27
-[2025-03-05 04:05:58.811136] Processed message from Machine 3 | Logical Clock: 14 | Length of Queue: 5
-[2025-03-05 04:05:59.048384] Queued message from Machine 3 with timestamp 31
-[2025-03-05 04:05:59.390839] Queued message from Machine 3 with timestamp 34
-[2025-03-05 04:05:59.556275] Queued message from Machine 3 with timestamp 35
-[2025-03-05 04:05:59.816224] Processed message from Machine 3 | Logical Clock: 15 | Length of Queue: 7
-[2025-03-05 04:06:00.755960] Queued message from Machine 3 with timestamp 43
-[2025-03-05 04:06:00.818648] Processed message from Machine 3 | Logical Clock: 19 | Length of Queue: 7
-[2025-03-05 04:06:01.272674] Queued message from Machine 3 with timestamp 47
-[2025-03-05 04:06:01.439227] Queued message from Machine 3 with timestamp 48
-[2025-03-05 04:06:01.823495] Processed message from Machine 3 | Logical Clock: 23 | Length of Queue: 8
-[2025-03-05 04:06:01.955246] Queued message from Machine 3 with timestamp 51
-[2025-03-05 04:06:02.464821] Queued message from Machine 3 with timestamp 54
-[2025-03-05 04:06:02.828079] Processed message from Machine 3 | Logical Clock: 25 | Length of Queue: 9
 [2025-03-05 04:06:06.043516] Started with clock speed 4
 [2025-03-05 04:06:06.047025] Queued message from Machine 2 with timestamp 1
 [2025-03-05 04:06:06.047350] Sent message to Machine 5002 | Logical Clock: 1

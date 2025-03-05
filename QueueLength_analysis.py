@@ -39,7 +39,7 @@ plt.tight_layout()
 
 # Save the figure using the same base name as the CSV file.
 base_name = os.path.splitext(csv_filename)[0]
-output_filename = "images/probability/trial5/" + base_name + ".png"
+output_filename = "images/probability/trial5" + base_name + ".png"
 plt.savefig(output_filename)
 print(f"Plot saved as {output_filename}")
 
