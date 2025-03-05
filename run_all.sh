@@ -1,4 +1,6 @@
 #!/bin/bash
+# chmod +x run_all.sh
+# 
 
 # Start vm1.py in the background
 python vm1.py &
