@@ -1,0 +1,220 @@
+[2025-03-05 03:45:40.036519] Started with clock speed 3
+[2025-03-05 03:45:40.042125] Queued message from Machine 3 with timestamp 1
+[2025-03-05 03:45:40.042308] Queued message from Machine 1 with timestamp 1
+[2025-03-05 03:45:40.042442] Sent message to Machine 5001 | Logical Clock: 1
+[2025-03-05 03:45:40.043611] Sent message to Machine 5003 | Logical Clock: 2
+[2025-03-05 03:45:40.375616] Processed message from Machine 3 | Logical Clock: 3 | Length of Queue: 1
+[2025-03-05 03:45:40.713650] Processed message from Machine 1 | Logical Clock: 4 | Length of Queue: 0
+[2025-03-05 03:45:41.062227] Sent message to Machine 5001 | Logical Clock: 5
+[2025-03-05 03:45:41.390936] Internal Event | Logical Clock: 6
+[2025-03-05 03:45:41.729370] Internal Event | Logical Clock: 7
+[2025-03-05 03:45:42.069315] Internal Event | Logical Clock: 8
+[2025-03-05 03:45:42.405936] Internal Event | Logical Clock: 9
+[2025-03-05 03:45:42.744318] Internal Event | Logical Clock: 10
+[2025-03-05 03:45:43.082246] Internal Event | Logical Clock: 11
+[2025-03-05 03:45:43.420657] Internal Event | Logical Clock: 12
+[2025-03-05 03:45:43.757143] Internal Event | Logical Clock: 13
+[2025-03-05 03:45:44.052502] Queued message from Machine 3 with timestamp 6
+[2025-03-05 03:45:44.090595] Processed message from Machine 3 | Logical Clock: 14 | Length of Queue: 0
+[2025-03-05 03:45:44.428848] Internal Event | Logical Clock: 15
+[2025-03-05 03:45:44.767670] Internal Event | Logical Clock: 16
+[2025-03-05 03:45:45.108447] Sent message to Machine 5001 | Logical Clock: 17
+[2025-03-05 03:45:45.111589] Sent message to Machine 5003 | Logical Clock: 18
+[2025-03-05 03:45:45.442611] Internal Event | Logical Clock: 19
+[2025-03-05 03:45:45.781134] Internal Event | Logical Clock: 20
+[2025-03-05 03:45:46.119903] Internal Event | Logical Clock: 21
+[2025-03-05 03:45:46.463147] Sent message to Machine 5001 | Logical Clock: 22
+[2025-03-05 03:45:46.466354] Sent message to Machine 5003 | Logical Clock: 23
+[2025-03-05 03:45:46.793397] Internal Event | Logical Clock: 24
+[2025-03-05 03:45:47.131547] Internal Event | Logical Clock: 25
+[2025-03-05 03:45:47.475249] Sent message to Machine 5003 | Logical Clock: 26
+[2025-03-05 03:45:47.803927] Internal Event | Logical Clock: 27
+[2025-03-05 03:45:48.139144] Internal Event | Logical Clock: 28
+[2025-03-05 03:45:48.477495] Internal Event | Logical Clock: 29
+[2025-03-05 03:45:48.608289] Queued message from Machine 1 with timestamp 27
+[2025-03-05 03:45:48.813036] Processed message from Machine 1 | Logical Clock: 30 | Length of Queue: 0
+[2025-03-05 03:45:49.155683] Sent message to Machine 5001 | Logical Clock: 31
+[2025-03-05 03:45:49.487969] Internal Event | Logical Clock: 32
+[2025-03-05 03:45:49.826365] Internal Event | Logical Clock: 33
+[2025-03-05 03:45:50.159665] Internal Event | Logical Clock: 34
+[2025-03-05 03:45:50.497900] Internal Event | Logical Clock: 35
+[2025-03-05 03:45:50.833886] Internal Event | Logical Clock: 36
+[2025-03-05 03:45:51.177197] Sent message to Machine 5001 | Logical Clock: 37
+[2025-03-05 03:45:51.181423] Sent message to Machine 5003 | Logical Clock: 38
+[2025-03-05 03:45:51.510481] Internal Event | Logical Clock: 39
+[2025-03-05 03:45:51.846838] Internal Event | Logical Clock: 40
+[2025-03-05 03:45:52.183899] Internal Event | Logical Clock: 41
+[2025-03-05 03:45:52.521175] Internal Event | Logical Clock: 42
+[2025-03-05 03:45:52.859554] Internal Event | Logical Clock: 43
+[2025-03-05 03:45:53.193965] Internal Event | Logical Clock: 44
+[2025-03-05 03:45:53.531909] Internal Event | Logical Clock: 45
+[2025-03-05 03:45:53.640980] Queued message from Machine 1 with timestamp 42
+[2025-03-05 03:45:53.866978] Processed message from Machine 1 | Logical Clock: 46 | Length of Queue: 0
+[2025-03-05 03:45:54.202651] Internal Event | Logical Clock: 47
+[2025-03-05 03:45:54.545667] Sent message to Machine 5003 | Logical Clock: 48
+[2025-03-05 03:45:54.648830] Queued message from Machine 1 with timestamp 45
+[2025-03-05 03:45:54.879045] Processed message from Machine 1 | Logical Clock: 49 | Length of Queue: 0
+[2025-03-05 03:45:55.215943] Internal Event | Logical Clock: 50
+[2025-03-05 03:45:55.554294] Internal Event | Logical Clock: 51
+[2025-03-05 03:45:55.889374] Internal Event | Logical Clock: 52
+[2025-03-05 03:45:56.226039] Internal Event | Logical Clock: 53
+[2025-03-05 03:45:56.559368] Internal Event | Logical Clock: 54
+[2025-03-05 03:45:56.897969] Internal Event | Logical Clock: 55
+[2025-03-05 03:45:57.238703] Sent message to Machine 5003 | Logical Clock: 56
+[2025-03-05 03:45:57.570945] Internal Event | Logical Clock: 57
+[2025-03-05 03:45:57.673878] Queued message from Machine 1 with timestamp 51
+[2025-03-05 03:45:57.906418] Processed message from Machine 1 | Logical Clock: 58 | Length of Queue: 0
+[2025-03-05 03:45:58.242266] Internal Event | Logical Clock: 59
+[2025-03-05 03:45:58.583804] Sent message to Machine 5003 | Logical Clock: 60
+[2025-03-05 03:45:58.921697] Sent message to Machine 5003 | Logical Clock: 61
+[2025-03-05 03:45:59.188499] Queued message from Machine 1 with timestamp 54
+[2025-03-05 03:45:59.249186] Processed message from Machine 1 | Logical Clock: 62 | Length of Queue: 0
+[2025-03-05 03:45:59.587656] Internal Event | Logical Clock: 63
+[2025-03-05 03:45:59.925986] Internal Event | Logical Clock: 64
+[2025-03-05 03:46:00.196566] Queued message from Machine 1 with timestamp 57
+[2025-03-05 03:46:00.262604] Processed message from Machine 1 | Logical Clock: 65 | Length of Queue: 0
+[2025-03-05 03:46:00.604986] Sent message to Machine 5003 | Logical Clock: 66
+[2025-03-05 03:46:00.937386] Internal Event | Logical Clock: 67
+[2025-03-05 03:46:01.274583] Internal Event | Logical Clock: 68
+[2025-03-05 03:46:01.614229] Sent message to Machine 5001 | Logical Clock: 69
+[2025-03-05 03:46:01.951260] Internal Event | Logical Clock: 70
+[2025-03-05 03:46:02.294028] Sent message to Machine 5001 | Logical Clock: 71
+[2025-03-05 03:46:02.627634] Internal Event | Logical Clock: 72
+[2025-03-05 03:46:02.966001] Internal Event | Logical Clock: 73
+[2025-03-05 03:46:03.303207] Internal Event | Logical Clock: 74
+[2025-03-05 03:46:03.640697] Internal Event | Logical Clock: 75
+[2025-03-05 03:46:03.984312] Sent message to Machine 5003 | Logical Clock: 76
+[2025-03-05 03:46:04.222615] Queued message from Machine 1 with timestamp 75
+[2025-03-05 03:46:04.317837] Processed message from Machine 1 | Logical Clock: 77 | Length of Queue: 0
+[2025-03-05 03:46:04.652982] Internal Event | Logical Clock: 78
+[2025-03-05 03:46:04.725675] Queued message from Machine 1 with timestamp 76
+[2025-03-05 03:46:04.987437] Processed message from Machine 1 | Logical Clock: 79 | Length of Queue: 0
+[2025-03-05 03:46:05.230784] Queued message from Machine 1 with timestamp 78
+[2025-03-05 03:46:05.324953] Processed message from Machine 1 | Logical Clock: 80 | Length of Queue: 0
+[2025-03-05 03:46:05.661583] Internal Event | Logical Clock: 81
+[2025-03-05 03:46:05.999876] Internal Event | Logical Clock: 82
+[2025-03-05 03:46:06.337300] Internal Event | Logical Clock: 83
+[2025-03-05 03:46:06.677471] Sent message to Machine 5001 | Logical Clock: 84
+[2025-03-05 03:46:07.014009] Internal Event | Logical Clock: 85
+[2025-03-05 03:46:07.347990] Internal Event | Logical Clock: 86
+[2025-03-05 03:46:07.691153] Sent message to Machine 5001 | Logical Clock: 87
+[2025-03-05 03:46:08.024785] Internal Event | Logical Clock: 88
+[2025-03-05 03:46:08.138612] Queued message from Machine 3 with timestamp 80
+[2025-03-05 03:46:08.362640] Processed message from Machine 3 | Logical Clock: 89 | Length of Queue: 0
+[2025-03-05 03:46:08.701184] Internal Event | Logical Clock: 90
+[2025-03-05 03:46:08.755246] Queued message from Machine 1 with timestamp 90
+[2025-03-05 03:46:09.039397] Processed message from Machine 1 | Logical Clock: 91 | Length of Queue: 0
+[2025-03-05 03:46:09.382780] Sent message to Machine 5001 | Logical Clock: 92
+[2025-03-05 03:46:09.716092] Internal Event | Logical Clock: 93
+[2025-03-05 03:46:10.058878] Sent message to Machine 5001 | Logical Clock: 94
+[2025-03-05 03:46:10.062984] Sent message to Machine 5003 | Logical Clock: 95
+[2025-03-05 03:46:10.392351] Internal Event | Logical Clock: 96
+[2025-03-05 03:46:10.729596] Internal Event | Logical Clock: 97
+[2025-03-05 03:46:11.072552] Sent message to Machine 5003 | Logical Clock: 98
+[2025-03-05 03:46:11.271684] Queued message from Machine 1 with timestamp 97
+[2025-03-05 03:46:11.405235] Processed message from Machine 1 | Logical Clock: 99 | Length of Queue: 0
+[2025-03-05 03:46:11.748482] Sent message to Machine 5003 | Logical Clock: 100
+[2025-03-05 03:46:12.082180] Internal Event | Logical Clock: 101
+[2025-03-05 03:46:12.276855] Queued message from Machine 1 with timestamp 100
+[2025-03-05 03:46:12.419689] Processed message from Machine 1 | Logical Clock: 102 | Length of Queue: 0
+[2025-03-05 03:46:12.757694] Sent message to Machine 5001 | Logical Clock: 103
+[2025-03-05 03:46:12.761478] Sent message to Machine 5003 | Logical Clock: 104
+[2025-03-05 03:46:13.096235] Sent message to Machine 5001 | Logical Clock: 105
+[2025-03-05 03:46:13.427129] Internal Event | Logical Clock: 106
+[2025-03-05 03:46:13.765523] Internal Event | Logical Clock: 107
+[2025-03-05 03:46:14.101295] Internal Event | Logical Clock: 108
+[2025-03-05 03:46:14.438706] Internal Event | Logical Clock: 109
+[2025-03-05 03:46:14.781515] Sent message to Machine 5001 | Logical Clock: 110
+[2025-03-05 03:46:15.110615] Internal Event | Logical Clock: 111
+[2025-03-05 03:46:15.446322] Internal Event | Logical Clock: 112
+[2025-03-05 03:46:15.784004] Internal Event | Logical Clock: 113
+[2025-03-05 03:46:16.122407] Internal Event | Logical Clock: 114
+[2025-03-05 03:46:16.165635] Queued message from Machine 3 with timestamp 107
+[2025-03-05 03:46:16.459178] Processed message from Machine 3 | Logical Clock: 115 | Length of Queue: 0
+[2025-03-05 03:46:16.803252] Sent message to Machine 5001 | Logical Clock: 116
+[2025-03-05 03:46:17.131111] Internal Event | Logical Clock: 117
+[2025-03-05 03:46:17.472540] Sent message to Machine 5001 | Logical Clock: 118
+[2025-03-05 03:46:17.806543] Sent message to Machine 5003 | Logical Clock: 119
+[2025-03-05 03:46:18.136375] Internal Event | Logical Clock: 120
+[2025-03-05 03:46:18.327509] Queued message from Machine 1 with timestamp 120
+[2025-03-05 03:46:18.470572] Processed message from Machine 1 | Logical Clock: 121 | Length of Queue: 0
+[2025-03-05 03:46:18.803901] Internal Event | Logical Clock: 122
+[2025-03-05 03:46:19.141483] Internal Event | Logical Clock: 123
+[2025-03-05 03:46:19.486092] Sent message to Machine 5001 | Logical Clock: 124
+[2025-03-05 03:46:19.813598] Internal Event | Logical Clock: 125
+[2025-03-05 03:46:20.156997] Sent message to Machine 5001 | Logical Clock: 126
+[2025-03-05 03:46:20.493309] Sent message to Machine 5003 | Logical Clock: 127
+[2025-03-05 03:46:20.827183] Internal Event | Logical Clock: 128
+[2025-03-05 03:46:21.165532] Internal Event | Logical Clock: 129
+[2025-03-05 03:46:21.506360] Sent message to Machine 5001 | Logical Clock: 130
+[2025-03-05 03:46:21.509474] Sent message to Machine 5003 | Logical Clock: 131
+[2025-03-05 03:46:21.840150] Internal Event | Logical Clock: 132
+[2025-03-05 03:46:22.176844] Internal Event | Logical Clock: 133
+[2025-03-05 03:46:22.516731] Sent message to Machine 5001 | Logical Clock: 134
+[2025-03-05 03:46:22.522824] Sent message to Machine 5003 | Logical Clock: 135
+[2025-03-05 03:46:22.850045] Internal Event | Logical Clock: 136
+[2025-03-05 03:46:23.187522] Internal Event | Logical Clock: 137
+[2025-03-05 03:46:23.524347] Internal Event | Logical Clock: 138
+[2025-03-05 03:46:23.862769] Internal Event | Logical Clock: 139
+[2025-03-05 03:46:24.198679] Internal Event | Logical Clock: 140
+[2025-03-05 03:46:24.371351] Queued message from Machine 1 with timestamp 138
+[2025-03-05 03:46:24.535292] Processed message from Machine 1 | Logical Clock: 141 | Length of Queue: 0
+[2025-03-05 03:46:24.870485] Internal Event | Logical Clock: 142
+[2025-03-05 03:46:24.873928] Queued message from Machine 1 with timestamp 140
+[2025-03-05 03:46:25.208800] Processed message from Machine 1 | Logical Clock: 143 | Length of Queue: 0
+[2025-03-05 03:46:25.552216] Sent message to Machine 5001 | Logical Clock: 144
+[2025-03-05 03:46:25.883761] Internal Event | Logical Clock: 145
+[2025-03-05 03:46:26.221530] Internal Event | Logical Clock: 146
+[2025-03-05 03:46:26.554945] Internal Event | Logical Clock: 147
+[2025-03-05 03:46:26.888530] Internal Event | Logical Clock: 148
+[2025-03-05 03:46:27.231575] Sent message to Machine 5003 | Logical Clock: 149
+[2025-03-05 03:46:27.565404] Internal Event | Logical Clock: 150
+[2025-03-05 03:46:27.903792] Internal Event | Logical Clock: 151
+[2025-03-05 03:46:28.247319] Sent message to Machine 5001 | Logical Clock: 152
+[2025-03-05 03:46:28.253353] Sent message to Machine 5003 | Logical Clock: 153
+[2025-03-05 03:46:28.581129] Internal Event | Logical Clock: 154
+[2025-03-05 03:46:28.921908] Sent message to Machine 5001 | Logical Clock: 155
+[2025-03-05 03:46:28.924144] Sent message to Machine 5003 | Logical Clock: 156
+[2025-03-05 03:46:29.257468] Internal Event | Logical Clock: 157
+[2025-03-05 03:46:29.595367] Internal Event | Logical Clock: 158
+[2025-03-05 03:46:29.929931] Internal Event | Logical Clock: 159
+[2025-03-05 03:46:30.272414] Sent message to Machine 5001 | Logical Clock: 160
+[2025-03-05 03:46:30.605342] Internal Event | Logical Clock: 161
+[2025-03-05 03:46:30.942691] Internal Event | Logical Clock: 162
+[2025-03-05 03:46:31.281106] Internal Event | Logical Clock: 163
+[2025-03-05 03:46:31.425575] Queued message from Machine 1 with timestamp 163
+[2025-03-05 03:46:31.619149] Processed message from Machine 1 | Logical Clock: 164 | Length of Queue: 0
+[2025-03-05 03:46:31.957657] Internal Event | Logical Clock: 165
+[2025-03-05 03:46:32.295763] Internal Event | Logical Clock: 166
+[2025-03-05 03:46:32.631400] Internal Event | Logical Clock: 167
+[2025-03-05 03:46:32.937130] Queued message from Machine 1 with timestamp 167
+[2025-03-05 03:46:32.967569] Processed message from Machine 1 | Logical Clock: 168 | Length of Queue: 0
+[2025-03-05 03:46:33.306295] Sent message to Machine 5003 | Logical Clock: 169
+[2025-03-05 03:46:33.637489] Internal Event | Logical Clock: 170
+[2025-03-05 03:46:33.975760] Internal Event | Logical Clock: 171
+[2025-03-05 03:46:34.310609] Internal Event | Logical Clock: 172
+[2025-03-05 03:46:34.655551] Sent message to Machine 5001 | Logical Clock: 173
+[2025-03-05 03:46:34.983828] Internal Event | Logical Clock: 174
+[2025-03-05 03:46:35.322308] Internal Event | Logical Clock: 175
+[2025-03-05 03:46:35.657478] Internal Event | Logical Clock: 176
+[2025-03-05 03:46:35.994264] Internal Event | Logical Clock: 177
+[2025-03-05 03:46:36.338276] Sent message to Machine 5001 | Logical Clock: 178
+[2025-03-05 03:46:36.342498] Sent message to Machine 5003 | Logical Clock: 179
+[2025-03-05 03:46:36.667711] Internal Event | Logical Clock: 180
+[2025-03-05 03:46:37.011159] Sent message to Machine 5001 | Logical Clock: 181
+[2025-03-05 03:46:37.014780] Sent message to Machine 5003 | Logical Clock: 182
+[2025-03-05 03:46:37.349768] Sent message to Machine 5001 | Logical Clock: 183
+[2025-03-05 03:46:37.688170] Sent message to Machine 5001 | Logical Clock: 184
+[2025-03-05 03:46:37.692501] Sent message to Machine 5003 | Logical Clock: 185
+[2025-03-05 03:46:38.019623] Internal Event | Logical Clock: 186
+[2025-03-05 03:46:38.353843] Internal Event | Logical Clock: 187
+[2025-03-05 03:46:38.692232] Internal Event | Logical Clock: 188
+[2025-03-05 03:46:38.982372] Queued message from Machine 1 with timestamp 186
+[2025-03-05 03:46:39.030591] Processed message from Machine 1 | Logical Clock: 189 | Length of Queue: 0
+[2025-03-05 03:46:39.368194] Internal Event | Logical Clock: 190
+[2025-03-05 03:46:39.705779] Internal Event | Logical Clock: 191
+[2025-03-05 03:46:39.993294] Queued message from Machine 1 with timestamp 188
+[2025-03-05 03:46:40.042641] Processed message from Machine 1 | Logical Clock: 192 | Length of Queue: 0
+[2025-03-05 03:46:40.381286] Internal Event | Logical Clock: 193
+[2025-03-05 03:46:40.724924] Sent message to Machine 5001 | Logical Clock: 194
+[2025-03-05 03:46:40.729485] Sent message to Machine 5003 | Logical Clock: 195

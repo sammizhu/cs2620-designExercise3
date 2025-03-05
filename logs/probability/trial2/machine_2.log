@@ -1,0 +1,392 @@
+[2025-03-05 04:01:51.919588] Started with clock speed 3
+[2025-03-05 04:01:51.919665] Internal Event | Logical Clock: 1
+[2025-03-05 04:01:52.268065] Sent message to Machine 5001 | Logical Clock: 2
+[2025-03-05 04:01:52.334393] Queued message from Machine 3 with timestamp 3
+[2025-03-05 04:01:52.596921] Processed message from Machine 3 | Logical Clock: 4 | Length of Queue: 0
+[2025-03-05 04:01:52.741583] Queued message from Machine 3 with timestamp 6
+[2025-03-05 04:01:52.930344] Processed message from Machine 3 | Logical Clock: 7 | Length of Queue: 0
+[2025-03-05 04:01:52.948831] Queued message from Machine 3 with timestamp 8
+[2025-03-05 04:01:53.124326] Queued message from Machine 1 with timestamp 9
+[2025-03-05 04:01:53.266564] Processed message from Machine 3 | Logical Clock: 9 | Length of Queue: 1
+[2025-03-05 04:01:53.351726] Queued message from Machine 3 with timestamp 12
+[2025-03-05 04:01:53.466254] Queued message from Machine 1 with timestamp 12
+[2025-03-05 04:01:53.603290] Processed message from Machine 1 | Logical Clock: 10 | Length of Queue: 2
+[2025-03-05 04:01:53.941986] Processed message from Machine 3 | Logical Clock: 13 | Length of Queue: 1
+[2025-03-05 04:01:53.975953] Queued message from Machine 1 with timestamp 16
+[2025-03-05 04:01:54.148508] Queued message from Machine 1 with timestamp 18
+[2025-03-05 04:01:54.275562] Processed message from Machine 1 | Logical Clock: 14 | Length of Queue: 2
+[2025-03-05 04:01:54.315677] Queued message from Machine 1 with timestamp 20
+[2025-03-05 04:01:54.613908] Processed message from Machine 1 | Logical Clock: 17 | Length of Queue: 2
+[2025-03-05 04:01:54.656865] Queued message from Machine 1 with timestamp 23
+[2025-03-05 04:01:54.951221] Processed message from Machine 1 | Logical Clock: 19 | Length of Queue: 2
+[2025-03-05 04:01:54.987456] Queued message from Machine 3 with timestamp 25
+[2025-03-05 04:01:55.163356] Queued message from Machine 1 with timestamp 26
+[2025-03-05 04:01:55.289426] Processed message from Machine 1 | Logical Clock: 21 | Length of Queue: 3
+[2025-03-05 04:01:55.627679] Processed message from Machine 1 | Logical Clock: 24 | Length of Queue: 2
+[2025-03-05 04:01:55.964506] Processed message from Machine 3 | Logical Clock: 26 | Length of Queue: 1
+[2025-03-05 04:01:56.178208] Queued message from Machine 1 with timestamp 32
+[2025-03-05 04:01:56.300779] Processed message from Machine 1 | Logical Clock: 27 | Length of Queue: 1
+[2025-03-05 04:01:56.352298] Queued message from Machine 1 with timestamp 33
+[2025-03-05 04:01:56.411323] Queued message from Machine 3 with timestamp 34
+[2025-03-05 04:01:56.607714] Queued message from Machine 3 with timestamp 35
+[2025-03-05 04:01:56.639081] Processed message from Machine 1 | Logical Clock: 33 | Length of Queue: 3
+[2025-03-05 04:01:56.826086] Queued message from Machine 3 with timestamp 37
+[2025-03-05 04:01:56.977437] Processed message from Machine 1 | Logical Clock: 34 | Length of Queue: 3
+[2025-03-05 04:01:57.033929] Queued message from Machine 1 with timestamp 38
+[2025-03-05 04:01:57.312221] Processed message from Machine 3 | Logical Clock: 35 | Length of Queue: 3
+[2025-03-05 04:01:57.424114] Queued message from Machine 3 with timestamp 40
+[2025-03-05 04:01:57.553009] Queued message from Machine 1 with timestamp 41
+[2025-03-05 04:01:57.652406] Processed message from Machine 3 | Logical Clock: 36 | Length of Queue: 4
+[2025-03-05 04:01:57.834980] Queued message from Machine 3 with timestamp 42
+[2025-03-05 04:01:57.990929] Processed message from Machine 3 | Logical Clock: 38 | Length of Queue: 4
+[2025-03-05 04:01:58.034280] Queued message from Machine 3 with timestamp 43
+[2025-03-05 04:01:58.056611] Queued message from Machine 1 with timestamp 44
+[2025-03-05 04:01:58.229975] Queued message from Machine 1 with timestamp 46
+[2025-03-05 04:01:58.329047] Processed message from Machine 1 | Logical Clock: 39 | Length of Queue: 6
+[2025-03-05 04:01:58.572661] Queued message from Machine 1 with timestamp 49
+[2025-03-05 04:01:58.667631] Processed message from Machine 3 | Logical Clock: 41 | Length of Queue: 6
+[2025-03-05 04:01:59.003662] Processed message from Machine 1 | Logical Clock: 42 | Length of Queue: 5
+[2025-03-05 04:01:59.256775] Queued message from Machine 1 with timestamp 54
+[2025-03-05 04:01:59.341066] Processed message from Machine 3 | Logical Clock: 43 | Length of Queue: 5
+[2025-03-05 04:01:59.425578] Queued message from Machine 1 with timestamp 56
+[2025-03-05 04:01:59.679230] Processed message from Machine 3 | Logical Clock: 44 | Length of Queue: 5
+[2025-03-05 04:01:59.934149] Queued message from Machine 1 with timestamp 60
+[2025-03-05 04:02:00.017793] Processed message from Machine 1 | Logical Clock: 45 | Length of Queue: 5
+[2025-03-05 04:02:00.277859] Queued message from Machine 1 with timestamp 62
+[2025-03-05 04:02:00.354697] Processed message from Machine 1 | Logical Clock: 47 | Length of Queue: 5
+[2025-03-05 04:02:00.688865] Processed message from Machine 1 | Logical Clock: 50 | Length of Queue: 4
+[2025-03-05 04:02:01.027244] Processed message from Machine 1 | Logical Clock: 55 | Length of Queue: 3
+[2025-03-05 04:02:01.303022] Queued message from Machine 1 with timestamp 69
+[2025-03-05 04:02:01.364285] Processed message from Machine 1 | Logical Clock: 57 | Length of Queue: 3
+[2025-03-05 04:02:01.475257] Queued message from Machine 1 with timestamp 71
+[2025-03-05 04:02:01.703288] Processed message from Machine 1 | Logical Clock: 61 | Length of Queue: 3
+[2025-03-05 04:02:01.816084] Queued message from Machine 1 with timestamp 74
+[2025-03-05 04:02:02.037784] Processed message from Machine 1 | Logical Clock: 63 | Length of Queue: 3
+[2025-03-05 04:02:02.325755] Queued message from Machine 1 with timestamp 78
+[2025-03-05 04:02:02.375367] Processed message from Machine 1 | Logical Clock: 70 | Length of Queue: 3
+[2025-03-05 04:02:02.660871] Queued message from Machine 1 with timestamp 80
+[2025-03-05 04:02:02.712761] Processed message from Machine 1 | Logical Clock: 72 | Length of Queue: 3
+[2025-03-05 04:02:02.919642] Queued message from Machine 3 with timestamp 83
+[2025-03-05 04:02:03.050091] Processed message from Machine 1 | Logical Clock: 75 | Length of Queue: 3
+[2025-03-05 04:02:03.174304] Queued message from Machine 1 with timestamp 84
+[2025-03-05 04:02:03.388488] Processed message from Machine 1 | Logical Clock: 79 | Length of Queue: 3
+[2025-03-05 04:02:03.512647] Queued message from Machine 1 with timestamp 87
+[2025-03-05 04:02:03.683782] Queued message from Machine 1 with timestamp 89
+[2025-03-05 04:02:03.724046] Processed message from Machine 1 | Logical Clock: 81 | Length of Queue: 4
+[2025-03-05 04:02:04.062748] Processed message from Machine 3 | Logical Clock: 84 | Length of Queue: 3
+[2025-03-05 04:02:04.399483] Processed message from Machine 1 | Logical Clock: 85 | Length of Queue: 2
+[2025-03-05 04:02:04.736415] Processed message from Machine 1 | Logical Clock: 88 | Length of Queue: 1
+[2025-03-05 04:02:04.748213] Queued message from Machine 3 with timestamp 95
+[2025-03-05 04:02:05.074104] Processed message from Machine 1 | Logical Clock: 90 | Length of Queue: 1
+[2025-03-05 04:02:05.214877] Queued message from Machine 1 with timestamp 99
+[2025-03-05 04:02:05.409234] Processed message from Machine 3 | Logical Clock: 96 | Length of Queue: 1
+[2025-03-05 04:02:05.719816] Queued message from Machine 1 with timestamp 102
+[2025-03-05 04:02:05.744507] Processed message from Machine 1 | Logical Clock: 100 | Length of Queue: 1
+[2025-03-05 04:02:06.080822] Processed message from Machine 1 | Logical Clock: 103 | Length of Queue: 0
+[2025-03-05 04:02:06.169070] Queued message from Machine 3 with timestamp 107
+[2025-03-05 04:02:06.379237] Queued message from Machine 3 with timestamp 109
+[2025-03-05 04:02:06.416700] Processed message from Machine 3 | Logical Clock: 108 | Length of Queue: 1
+[2025-03-05 04:02:06.743129] Queued message from Machine 1 with timestamp 111
+[2025-03-05 04:02:06.750323] Processed message from Machine 3 | Logical Clock: 110 | Length of Queue: 1
+[2025-03-05 04:02:06.985146] Queued message from Machine 3 with timestamp 114
+[2025-03-05 04:02:07.083942] Queued message from Machine 1 with timestamp 114
+[2025-03-05 04:02:07.088636] Processed message from Machine 1 | Logical Clock: 112 | Length of Queue: 2
+[2025-03-05 04:02:07.391097] Queued message from Machine 3 with timestamp 116
+[2025-03-05 04:02:07.423792] Processed message from Machine 3 | Logical Clock: 115 | Length of Queue: 2
+[2025-03-05 04:02:07.596514] Queued message from Machine 1 with timestamp 117
+[2025-03-05 04:02:07.598765] Queued message from Machine 3 with timestamp 118
+[2025-03-05 04:02:07.762215] Processed message from Machine 1 | Logical Clock: 116 | Length of Queue: 3
+[2025-03-05 04:02:07.799246] Queued message from Machine 3 with timestamp 119
+[2025-03-05 04:02:08.100684] Processed message from Machine 3 | Logical Clock: 117 | Length of Queue: 3
+[2025-03-05 04:02:08.274215] Queued message from Machine 1 with timestamp 121
+[2025-03-05 04:02:08.411418] Queued message from Machine 3 with timestamp 122
+[2025-03-05 04:02:08.434112] Processed message from Machine 1 | Logical Clock: 118 | Length of Queue: 4
+[2025-03-05 04:02:08.770403] Processed message from Machine 3 | Logical Clock: 119 | Length of Queue: 3
+[2025-03-05 04:02:08.784694] Queued message from Machine 1 with timestamp 124
+[2025-03-05 04:02:09.108681] Processed message from Machine 3 | Logical Clock: 120 | Length of Queue: 3
+[2025-03-05 04:02:09.123853] Queued message from Machine 1 with timestamp 127
+[2025-03-05 04:02:09.446336] Processed message from Machine 1 | Logical Clock: 122 | Length of Queue: 3
+[2025-03-05 04:02:09.784007] Processed message from Machine 3 | Logical Clock: 123 | Length of Queue: 2
+[2025-03-05 04:02:10.121772] Processed message from Machine 1 | Logical Clock: 125 | Length of Queue: 1
+[2025-03-05 04:02:10.255899] Queued message from Machine 3 with timestamp 134
+[2025-03-05 04:02:10.459644] Processed message from Machine 1 | Logical Clock: 128 | Length of Queue: 1
+[2025-03-05 04:02:10.657039] Queued message from Machine 3 with timestamp 136
+[2025-03-05 04:02:10.795528] Processed message from Machine 3 | Logical Clock: 135 | Length of Queue: 1
+[2025-03-05 04:02:10.832137] Queued message from Machine 1 with timestamp 138
+[2025-03-05 04:02:10.862716] Queued message from Machine 3 with timestamp 138
+[2025-03-05 04:02:11.132542] Processed message from Machine 3 | Logical Clock: 137 | Length of Queue: 2
+[2025-03-05 04:02:11.469722] Processed message from Machine 1 | Logical Clock: 139 | Length of Queue: 1
+[2025-03-05 04:02:11.684280] Queued message from Machine 1 with timestamp 143
+[2025-03-05 04:02:11.808120] Processed message from Machine 3 | Logical Clock: 140 | Length of Queue: 1
+[2025-03-05 04:02:12.024310] Queued message from Machine 1 with timestamp 146
+[2025-03-05 04:02:12.144626] Processed message from Machine 1 | Logical Clock: 144 | Length of Queue: 1
+[2025-03-05 04:02:12.364710] Queued message from Machine 1 with timestamp 149
+[2025-03-05 04:02:12.479041] Processed message from Machine 1 | Logical Clock: 147 | Length of Queue: 1
+[2025-03-05 04:02:12.817423] Processed message from Machine 1 | Logical Clock: 150 | Length of Queue: 0
+[2025-03-05 04:02:12.898094] Queued message from Machine 3 with timestamp 152
+[2025-03-05 04:02:13.155712] Processed message from Machine 3 | Logical Clock: 153 | Length of Queue: 0
+[2025-03-05 04:02:13.391572] Queued message from Machine 1 with timestamp 156
+[2025-03-05 04:02:13.494155] Processed message from Machine 1 | Logical Clock: 157 | Length of Queue: 0
+[2025-03-05 04:02:13.515115] Queued message from Machine 3 with timestamp 156
+[2025-03-05 04:02:13.716914] Queued message from Machine 3 with timestamp 158
+[2025-03-05 04:02:13.832205] Processed message from Machine 3 | Logical Clock: 158 | Length of Queue: 1
+[2025-03-05 04:02:14.070164] Queued message from Machine 1 with timestamp 160
+[2025-03-05 04:02:14.170202] Processed message from Machine 3 | Logical Clock: 159 | Length of Queue: 1
+[2025-03-05 04:02:14.240572] Queued message from Machine 1 with timestamp 162
+[2025-03-05 04:02:14.508588] Processed message from Machine 1 | Logical Clock: 161 | Length of Queue: 1
+[2025-03-05 04:02:14.846737] Processed message from Machine 1 | Logical Clock: 163 | Length of Queue: 0
+[2025-03-05 04:02:15.085517] Queued message from Machine 1 with timestamp 168
+[2025-03-05 04:02:15.184781] Processed message from Machine 1 | Logical Clock: 169 | Length of Queue: 0
+[2025-03-05 04:02:15.528305] Sent message to Machine 5001 | Logical Clock: 170
+[2025-03-05 04:02:15.742842] Queued message from Machine 3 with timestamp 173
+[2025-03-05 04:02:15.765748] Queued message from Machine 1 with timestamp 173
+[2025-03-05 04:02:15.857057] Processed message from Machine 3 | Logical Clock: 174 | Length of Queue: 1
+[2025-03-05 04:02:15.936522] Queued message from Machine 1 with timestamp 175
+[2025-03-05 04:02:16.108670] Queued message from Machine 1 with timestamp 177
+[2025-03-05 04:02:16.195224] Processed message from Machine 1 | Logical Clock: 175 | Length of Queue: 2
+[2025-03-05 04:02:16.533834] Processed message from Machine 1 | Logical Clock: 176 | Length of Queue: 1
+[2025-03-05 04:02:16.558259] Queued message from Machine 3 with timestamp 180
+[2025-03-05 04:02:16.871005] Processed message from Machine 1 | Logical Clock: 178 | Length of Queue: 1
+[2025-03-05 04:02:16.964236] Queued message from Machine 1 with timestamp 183
+[2025-03-05 04:02:17.209658] Processed message from Machine 3 | Logical Clock: 181 | Length of Queue: 1
+[2025-03-05 04:02:17.546714] Processed message from Machine 1 | Logical Clock: 184 | Length of Queue: 0
+[2025-03-05 04:02:17.777166] Queued message from Machine 3 with timestamp 189
+[2025-03-05 04:02:17.882252] Processed message from Machine 3 | Logical Clock: 190 | Length of Queue: 0
+[2025-03-05 04:02:18.224932] Sent message to Machine 5001 | Logical Clock: 191
+[2025-03-05 04:02:18.563104] Sent message to Machine 5003 | Logical Clock: 192
+[2025-03-05 04:02:18.796820] Queued message from Machine 3 with timestamp 194
+[2025-03-05 04:02:18.833829] Queued message from Machine 1 with timestamp 195
+[2025-03-05 04:02:18.895188] Processed message from Machine 3 | Logical Clock: 195 | Length of Queue: 1
+[2025-03-05 04:02:19.232925] Processed message from Machine 1 | Logical Clock: 196 | Length of Queue: 0
+[2025-03-05 04:02:19.515442] Queued message from Machine 1 with timestamp 200
+[2025-03-05 04:02:19.567231] Processed message from Machine 1 | Logical Clock: 201 | Length of Queue: 0
+[2025-03-05 04:02:19.690342] Queued message from Machine 1 with timestamp 202
+[2025-03-05 04:02:19.857595] Queued message from Machine 1 with timestamp 204
+[2025-03-05 04:02:19.904294] Processed message from Machine 1 | Logical Clock: 203 | Length of Queue: 1
+[2025-03-05 04:02:20.031053] Queued message from Machine 1 with timestamp 206
+[2025-03-05 04:02:20.242515] Processed message from Machine 1 | Logical Clock: 205 | Length of Queue: 1
+[2025-03-05 04:02:20.544277] Queued message from Machine 1 with timestamp 210
+[2025-03-05 04:02:20.580767] Processed message from Machine 1 | Logical Clock: 207 | Length of Queue: 1
+[2025-03-05 04:02:20.917988] Processed message from Machine 1 | Logical Clock: 211 | Length of Queue: 0
+[2025-03-05 04:02:21.050655] Queued message from Machine 1 with timestamp 213
+[2025-03-05 04:02:21.255011] Processed message from Machine 1 | Logical Clock: 214 | Length of Queue: 0
+[2025-03-05 04:02:21.392305] Queued message from Machine 1 with timestamp 216
+[2025-03-05 04:02:21.564160] Queued message from Machine 1 with timestamp 218
+[2025-03-05 04:02:21.594767] Processed message from Machine 1 | Logical Clock: 217 | Length of Queue: 1
+[2025-03-05 04:02:21.905476] Queued message from Machine 1 with timestamp 221
+[2025-03-05 04:02:21.929075] Processed message from Machine 1 | Logical Clock: 219 | Length of Queue: 1
+[2025-03-05 04:02:22.073032] Queued message from Machine 1 with timestamp 223
+[2025-03-05 04:02:22.266647] Processed message from Machine 1 | Logical Clock: 222 | Length of Queue: 1
+[2025-03-05 04:02:22.413411] Queued message from Machine 1 with timestamp 226
+[2025-03-05 04:02:22.584629] Queued message from Machine 1 with timestamp 228
+[2025-03-05 04:02:22.605007] Processed message from Machine 1 | Logical Clock: 224 | Length of Queue: 2
+[2025-03-05 04:02:22.754832] Queued message from Machine 1 with timestamp 229
+[2025-03-05 04:02:22.943000] Processed message from Machine 1 | Logical Clock: 227 | Length of Queue: 2
+[2025-03-05 04:02:23.092787] Queued message from Machine 1 with timestamp 231
+[2025-03-05 04:02:23.264309] Queued message from Machine 1 with timestamp 232
+[2025-03-05 04:02:23.281349] Processed message from Machine 1 | Logical Clock: 229 | Length of Queue: 3
+[2025-03-05 04:02:23.619796] Processed message from Machine 1 | Logical Clock: 230 | Length of Queue: 2
+[2025-03-05 04:02:23.679096] Queued message from Machine 3 with timestamp 235
+[2025-03-05 04:02:23.957084] Processed message from Machine 1 | Logical Clock: 232 | Length of Queue: 2
+[2025-03-05 04:02:24.118660] Queued message from Machine 1 with timestamp 238
+[2025-03-05 04:02:24.293181] Processed message from Machine 1 | Logical Clock: 233 | Length of Queue: 2
+[2025-03-05 04:02:24.496954] Queued message from Machine 3 with timestamp 240
+[2025-03-05 04:02:24.630368] Processed message from Machine 3 | Logical Clock: 236 | Length of Queue: 2
+[2025-03-05 04:02:24.697348] Queued message from Machine 3 with timestamp 241
+[2025-03-05 04:02:24.800983] Queued message from Machine 1 with timestamp 242
+[2025-03-05 04:02:24.968736] Processed message from Machine 1 | Logical Clock: 239 | Length of Queue: 3
+[2025-03-05 04:02:25.107841] Queued message from Machine 3 with timestamp 243
+[2025-03-05 04:02:25.304097] Processed message from Machine 3 | Logical Clock: 241 | Length of Queue: 3
+[2025-03-05 04:02:25.482938] Queued message from Machine 1 with timestamp 246
+[2025-03-05 04:02:25.642046] Processed message from Machine 3 | Logical Clock: 242 | Length of Queue: 3
+[2025-03-05 04:02:25.651644] Queued message from Machine 1 with timestamp 248
+[2025-03-05 04:02:25.977431] Processed message from Machine 1 | Logical Clock: 243 | Length of Queue: 3
+[2025-03-05 04:02:26.163228] Queued message from Machine 1 with timestamp 252
+[2025-03-05 04:02:26.314005] Processed message from Machine 3 | Logical Clock: 244 | Length of Queue: 3
+[2025-03-05 04:02:26.337395] Queued message from Machine 1 with timestamp 253
+[2025-03-05 04:02:26.506567] Queued message from Machine 1 with timestamp 255
+[2025-03-05 04:02:26.648902] Processed message from Machine 1 | Logical Clock: 247 | Length of Queue: 4
+[2025-03-05 04:02:26.677699] Queued message from Machine 1 with timestamp 257
+[2025-03-05 04:02:26.848554] Queued message from Machine 1 with timestamp 258
+[2025-03-05 04:02:26.988083] Processed message from Machine 1 | Logical Clock: 249 | Length of Queue: 5
+[2025-03-05 04:02:27.143796] Queued message from Machine 3 with timestamp 261
+[2025-03-05 04:02:27.190695] Queued message from Machine 1 with timestamp 261
+[2025-03-05 04:02:27.320925] Processed message from Machine 1 | Logical Clock: 253 | Length of Queue: 6
+[2025-03-05 04:02:27.657887] Processed message from Machine 1 | Logical Clock: 254 | Length of Queue: 5
+[2025-03-05 04:02:27.961528] Queued message from Machine 3 with timestamp 268
+[2025-03-05 04:02:27.995506] Processed message from Machine 1 | Logical Clock: 256 | Length of Queue: 5
+[2025-03-05 04:02:28.332870] Processed message from Machine 1 | Logical Clock: 258 | Length of Queue: 4
+[2025-03-05 04:02:28.377176] Queued message from Machine 1 with timestamp 270
+[2025-03-05 04:02:28.671581] Processed message from Machine 1 | Logical Clock: 259 | Length of Queue: 4
+[2025-03-05 04:02:29.009226] Processed message from Machine 3 | Logical Clock: 262 | Length of Queue: 3
+[2025-03-05 04:02:29.064670] Queued message from Machine 1 with timestamp 275
+[2025-03-05 04:02:29.232902] Queued message from Machine 1 with timestamp 277
+[2025-03-05 04:02:29.346274] Processed message from Machine 1 | Logical Clock: 263 | Length of Queue: 4
+[2025-03-05 04:02:29.403609] Queued message from Machine 1 with timestamp 279
+[2025-03-05 04:02:29.572964] Queued message from Machine 1 with timestamp 280
+[2025-03-05 04:02:29.684287] Processed message from Machine 3 | Logical Clock: 269 | Length of Queue: 5
+[2025-03-05 04:02:29.911737] Queued message from Machine 1 with timestamp 282
+[2025-03-05 04:02:30.020002] Processed message from Machine 1 | Logical Clock: 271 | Length of Queue: 5
+[2025-03-05 04:02:30.082743] Queued message from Machine 1 with timestamp 284
+[2025-03-05 04:02:30.356308] Processed message from Machine 1 | Logical Clock: 276 | Length of Queue: 5
+[2025-03-05 04:02:30.690322] Processed message from Machine 1 | Logical Clock: 278 | Length of Queue: 4
+[2025-03-05 04:02:31.028785] Processed message from Machine 1 | Logical Clock: 280 | Length of Queue: 3
+[2025-03-05 04:02:31.367091] Processed message from Machine 1 | Logical Clock: 281 | Length of Queue: 2
+[2025-03-05 04:02:31.416843] Queued message from Machine 3 with timestamp 294
+[2025-03-05 04:02:31.620187] Queued message from Machine 1 with timestamp 295
+[2025-03-05 04:02:31.622374] Queued message from Machine 3 with timestamp 296
+[2025-03-05 04:02:31.701979] Processed message from Machine 1 | Logical Clock: 283 | Length of Queue: 4
+[2025-03-05 04:02:32.039860] Processed message from Machine 1 | Logical Clock: 285 | Length of Queue: 3
+[2025-03-05 04:02:32.131856] Queued message from Machine 1 with timestamp 298
+[2025-03-05 04:02:32.227168] Queued message from Machine 3 with timestamp 299
+[2025-03-05 04:02:32.377838] Processed message from Machine 3 | Logical Clock: 295 | Length of Queue: 4
+[2025-03-05 04:02:32.433345] Queued message from Machine 3 with timestamp 301
+[2025-03-05 04:02:32.634205] Queued message from Machine 3 with timestamp 302
+[2025-03-05 04:02:32.716006] Processed message from Machine 1 | Logical Clock: 296 | Length of Queue: 5
+[2025-03-05 04:02:32.815845] Queued message from Machine 1 with timestamp 303
+[2025-03-05 04:02:32.983294] Queued message from Machine 1 with timestamp 305
+[2025-03-05 04:02:33.054993] Processed message from Machine 3 | Logical Clock: 297 | Length of Queue: 6
+[2025-03-05 04:02:33.389560] Processed message from Machine 1 | Logical Clock: 299 | Length of Queue: 5
+[2025-03-05 04:02:33.444309] Queued message from Machine 3 with timestamp 309
+[2025-03-05 04:02:33.668239] Queued message from Machine 1 with timestamp 311
+[2025-03-05 04:02:33.728152] Processed message from Machine 3 | Logical Clock: 300 | Length of Queue: 6
+[2025-03-05 04:02:33.852233] Queued message from Machine 3 with timestamp 311
+[2025-03-05 04:02:34.011700] Queued message from Machine 1 with timestamp 313
+[2025-03-05 04:02:34.063429] Processed message from Machine 3 | Logical Clock: 302 | Length of Queue: 7
+[2025-03-05 04:02:34.263529] Queued message from Machine 3 with timestamp 317
+[2025-03-05 04:02:34.398475] Processed message from Machine 3 | Logical Clock: 303 | Length of Queue: 7
+[2025-03-05 04:02:34.524017] Queued message from Machine 1 with timestamp 318
+[2025-03-05 04:02:34.735146] Processed message from Machine 1 | Logical Clock: 304 | Length of Queue: 7
+[2025-03-05 04:02:34.869954] Queued message from Machine 1 with timestamp 321
+[2025-03-05 04:02:34.874048] Queued message from Machine 3 with timestamp 322
+[2025-03-05 04:02:35.069342] Processed message from Machine 1 | Logical Clock: 306 | Length of Queue: 8
+[2025-03-05 04:02:35.210067] Queued message from Machine 1 with timestamp 323
+[2025-03-05 04:02:35.283587] Queued message from Machine 3 with timestamp 325
+[2025-03-05 04:02:35.405856] Processed message from Machine 3 | Logical Clock: 310 | Length of Queue: 9
+[2025-03-05 04:02:35.489397] Queued message from Machine 3 with timestamp 327
+[2025-03-05 04:02:35.743252] Processed message from Machine 1 | Logical Clock: 312 | Length of Queue: 9
+[2025-03-05 04:02:36.078644] Processed message from Machine 3 | Logical Clock: 313 | Length of Queue: 8
+[2025-03-05 04:02:36.102124] Queued message from Machine 3 with timestamp 331
+[2025-03-05 04:02:36.412552] Processed message from Machine 1 | Logical Clock: 314 | Length of Queue: 8
+[2025-03-05 04:02:36.750444] Processed message from Machine 3 | Logical Clock: 318 | Length of Queue: 7
+[2025-03-05 04:02:36.923052] Queued message from Machine 1 with timestamp 336
+[2025-03-05 04:02:37.088920] Processed message from Machine 1 | Logical Clock: 319 | Length of Queue: 7
+[2025-03-05 04:02:37.427291] Processed message from Machine 1 | Logical Clock: 322 | Length of Queue: 6
+[2025-03-05 04:02:37.761765] Processed message from Machine 3 | Logical Clock: 323 | Length of Queue: 5
+[2025-03-05 04:02:37.935637] Queued message from Machine 3 with timestamp 343
+[2025-03-05 04:02:38.100259] Processed message from Machine 1 | Logical Clock: 324 | Length of Queue: 5
+[2025-03-05 04:02:38.115934] Queued message from Machine 1 with timestamp 344
+[2025-03-05 04:02:38.438570] Processed message from Machine 3 | Logical Clock: 326 | Length of Queue: 5
+[2025-03-05 04:02:38.759886] Queued message from Machine 3 with timestamp 348
+[2025-03-05 04:02:38.775367] Processed message from Machine 3 | Logical Clock: 328 | Length of Queue: 5
+[2025-03-05 04:02:38.959555] Queued message from Machine 3 with timestamp 349
+[2025-03-05 04:02:39.113653] Processed message from Machine 3 | Logical Clock: 332 | Length of Queue: 5
+[2025-03-05 04:02:39.450084] Processed message from Machine 1 | Logical Clock: 337 | Length of Queue: 4
+[2025-03-05 04:02:39.778727] Queued message from Machine 3 with timestamp 355
+[2025-03-05 04:02:39.784488] Processed message from Machine 3 | Logical Clock: 344 | Length of Queue: 4
+[2025-03-05 04:02:40.121981] Processed message from Machine 1 | Logical Clock: 345 | Length of Queue: 3
+[2025-03-05 04:02:40.150628] Queued message from Machine 1 with timestamp 357
+[2025-03-05 04:02:40.324501] Queued message from Machine 1 with timestamp 359
+[2025-03-05 04:02:40.460594] Processed message from Machine 3 | Logical Clock: 349 | Length of Queue: 4
+[2025-03-05 04:02:40.665524] Queued message from Machine 1 with timestamp 362
+[2025-03-05 04:02:40.799075] Processed message from Machine 3 | Logical Clock: 350 | Length of Queue: 4
+[2025-03-05 04:02:41.137629] Processed message from Machine 3 | Logical Clock: 356 | Length of Queue: 3
+[2025-03-05 04:02:41.177632] Queued message from Machine 1 with timestamp 366
+[2025-03-05 04:02:41.350914] Queued message from Machine 1 with timestamp 368
+[2025-03-05 04:02:41.473193] Processed message from Machine 1 | Logical Clock: 358 | Length of Queue: 4
+[2025-03-05 04:02:41.811547] Processed message from Machine 1 | Logical Clock: 360 | Length of Queue: 3
+[2025-03-05 04:02:41.813920] Queued message from Machine 3 with timestamp 372
+[2025-03-05 04:02:42.148777] Processed message from Machine 1 | Logical Clock: 363 | Length of Queue: 3
+[2025-03-05 04:02:42.200700] Queued message from Machine 1 with timestamp 375
+[2025-03-05 04:02:42.486868] Processed message from Machine 1 | Logical Clock: 367 | Length of Queue: 3
+[2025-03-05 04:02:42.824268] Processed message from Machine 1 | Logical Clock: 369 | Length of Queue: 2
+[2025-03-05 04:02:43.032663] Queued message from Machine 3 with timestamp 380
+[2025-03-05 04:02:43.162618] Processed message from Machine 3 | Logical Clock: 373 | Length of Queue: 2
+[2025-03-05 04:02:43.218894] Queued message from Machine 1 with timestamp 381
+[2025-03-05 04:02:43.392390] Queued message from Machine 1 with timestamp 382
+[2025-03-05 04:02:43.500396] Processed message from Machine 1 | Logical Clock: 376 | Length of Queue: 3
+[2025-03-05 04:02:43.560588] Queued message from Machine 1 with timestamp 384
+[2025-03-05 04:02:43.731029] Queued message from Machine 1 with timestamp 385
+[2025-03-05 04:02:43.834133] Processed message from Machine 3 | Logical Clock: 381 | Length of Queue: 4
+[2025-03-05 04:02:44.069624] Queued message from Machine 1 with timestamp 387
+[2025-03-05 04:02:44.172450] Processed message from Machine 1 | Logical Clock: 382 | Length of Queue: 4
+[2025-03-05 04:02:44.508509] Processed message from Machine 1 | Logical Clock: 383 | Length of Queue: 3
+[2025-03-05 04:02:44.845978] Processed message from Machine 1 | Logical Clock: 385 | Length of Queue: 2
+[2025-03-05 04:02:45.071259] Queued message from Machine 3 with timestamp 393
+[2025-03-05 04:02:45.097067] Queued message from Machine 1 with timestamp 394
+[2025-03-05 04:02:45.179410] Processed message from Machine 1 | Logical Clock: 386 | Length of Queue: 3
+[2025-03-05 04:02:45.274976] Queued message from Machine 3 with timestamp 394
+[2025-03-05 04:02:45.514989] Processed message from Machine 1 | Logical Clock: 388 | Length of Queue: 3
+[2025-03-05 04:02:45.611573] Queued message from Machine 1 with timestamp 397
+[2025-03-05 04:02:45.853533] Processed message from Machine 3 | Logical Clock: 394 | Length of Queue: 3
+[2025-03-05 04:02:45.894383] Queued message from Machine 3 with timestamp 401
+[2025-03-05 04:02:46.093288] Queued message from Machine 3 with timestamp 402
+[2025-03-05 04:02:46.189293] Processed message from Machine 1 | Logical Clock: 395 | Length of Queue: 4
+[2025-03-05 04:02:46.468280] Queued message from Machine 1 with timestamp 404
+[2025-03-05 04:02:46.527881] Processed message from Machine 3 | Logical Clock: 396 | Length of Queue: 4
+[2025-03-05 04:02:46.862271] Processed message from Machine 1 | Logical Clock: 398 | Length of Queue: 3
+[2025-03-05 04:02:47.108992] Queued message from Machine 3 with timestamp 408
+[2025-03-05 04:02:47.142260] Queued message from Machine 1 with timestamp 408
+[2025-03-05 04:02:47.197849] Processed message from Machine 3 | Logical Clock: 402 | Length of Queue: 4
+[2025-03-05 04:02:47.536133] Processed message from Machine 3 | Logical Clock: 403 | Length of Queue: 3
+[2025-03-05 04:02:47.874732] Processed message from Machine 1 | Logical Clock: 405 | Length of Queue: 2
+[2025-03-05 04:02:48.211566] Processed message from Machine 3 | Logical Clock: 409 | Length of Queue: 1
+[2025-03-05 04:02:48.505645] Queued message from Machine 1 with timestamp 417
+[2025-03-05 04:02:48.550010] Processed message from Machine 1 | Logical Clock: 410 | Length of Queue: 1
+[2025-03-05 04:02:48.883919] Processed message from Machine 1 | Logical Clock: 418 | Length of Queue: 0
+[2025-03-05 04:02:49.227941] Sent message to Machine 5003 | Logical Clock: 419
+[2025-03-05 04:02:49.527448] Queued message from Machine 1 with timestamp 425
+[2025-03-05 04:02:49.556818] Processed message from Machine 1 | Logical Clock: 426 | Length of Queue: 0
+[2025-03-05 04:02:49.698897] Queued message from Machine 1 with timestamp 427
+[2025-03-05 04:02:49.867807] Queued message from Machine 1 with timestamp 428
+[2025-03-05 04:02:49.894889] Processed message from Machine 1 | Logical Clock: 428 | Length of Queue: 1
+[2025-03-05 04:02:49.961341] Queued message from Machine 3 with timestamp 428
+[2025-03-05 04:02:50.041410] Queued message from Machine 1 with timestamp 429
+[2025-03-05 04:02:50.212073] Queued message from Machine 1 with timestamp 431
+[2025-03-05 04:02:50.233129] Processed message from Machine 1 | Logical Clock: 429 | Length of Queue: 3
+[2025-03-05 04:02:50.383110] Queued message from Machine 1 with timestamp 432
+[2025-03-05 04:02:50.552576] Queued message from Machine 1 with timestamp 434
+[2025-03-05 04:02:50.569619] Processed message from Machine 3 | Logical Clock: 430 | Length of Queue: 4
+[2025-03-05 04:02:50.774177] Queued message from Machine 3 with timestamp 435
+[2025-03-05 04:02:50.889738] Queued message from Machine 1 with timestamp 436
+[2025-03-05 04:02:50.906952] Processed message from Machine 1 | Logical Clock: 431 | Length of Queue: 5
+[2025-03-05 04:02:50.979461] Queued message from Machine 3 with timestamp 437
+[2025-03-05 04:02:51.176188] Queued message from Machine 3 with timestamp 438
+[2025-03-05 04:02:51.240372] Processed message from Machine 1 | Logical Clock: 432 | Length of Queue: 6
+[2025-03-05 04:02:51.388734] Queued message from Machine 3 with timestamp 440
+[2025-03-05 04:02:51.579532] Processed message from Machine 1 | Logical Clock: 433 | Length of Queue: 6
+[2025-03-05 04:02:51.911387] Queued message from Machine 1 with timestamp 443
+[2025-03-05 04:02:51.913189] Processed message from Machine 1 | Logical Clock: 435 | Length of Queue: 6
+[2025-03-05 04:02:51.991067] Queued message from Machine 3 with timestamp 443
+[2025-03-05 04:02:52.078805] Queued message from Machine 1 with timestamp 444
+[2025-03-05 04:02:52.251704] Processed message from Machine 3 | Logical Clock: 436 | Length of Queue: 7
+[2025-03-05 04:02:52.252464] Queued message from Machine 1 with timestamp 446
+[2025-03-05 04:02:52.590211] Processed message from Machine 1 | Logical Clock: 437 | Length of Queue: 7
+[2025-03-05 04:02:52.593680] Queued message from Machine 1 with timestamp 449
+[2025-03-05 04:02:52.765565] Queued message from Machine 1 with timestamp 451
+[2025-03-05 04:02:52.927804] Processed message from Machine 3 | Logical Clock: 438 | Length of Queue: 8
+[2025-03-05 04:02:53.266553] Processed message from Machine 3 | Logical Clock: 439 | Length of Queue: 7
+[2025-03-05 04:02:53.277493] Queued message from Machine 1 with timestamp 455
+[2025-03-05 04:02:53.417860] Queued message from Machine 3 with timestamp 457
+[2025-03-05 04:02:53.603703] Processed message from Machine 3 | Logical Clock: 441 | Length of Queue: 8
+[2025-03-05 04:02:53.613232] Queued message from Machine 1 with timestamp 458
+[2025-03-05 04:02:53.788859] Queued message from Machine 1 with timestamp 459
+[2025-03-05 04:02:53.938646] Processed message from Machine 1 | Logical Clock: 444 | Length of Queue: 9
+[2025-03-05 04:02:53.958595] Queued message from Machine 1 with timestamp 461
+[2025-03-05 04:02:54.227353] Queued message from Machine 3 with timestamp 463
+[2025-03-05 04:02:54.272526] Processed message from Machine 3 | Logical Clock: 445 | Length of Queue: 10
+[2025-03-05 04:02:54.437176] Queued message from Machine 3 with timestamp 465
+[2025-03-05 04:02:54.607232] Processed message from Machine 1 | Logical Clock: 446 | Length of Queue: 10
+[2025-03-05 04:02:54.638309] Queued message from Machine 1 with timestamp 466
+[2025-03-05 04:02:54.945498] Processed message from Machine 1 | Logical Clock: 447 | Length of Queue: 10
+[2025-03-05 04:02:55.251656] Queued message from Machine 3 with timestamp 472
+[2025-03-05 04:02:55.280159] Processed message from Machine 1 | Logical Clock: 450 | Length of Queue: 10
+[2025-03-05 04:02:55.617057] Processed message from Machine 1 | Logical Clock: 452 | Length of Queue: 9
+[2025-03-05 04:02:55.651041] Queued message from Machine 3 with timestamp 474
+[2025-03-05 04:02:55.660412] Queued message from Machine 1 with timestamp 475
+[2025-03-05 04:02:55.832453] Queued message from Machine 1 with timestamp 476
+[2025-03-05 04:02:55.955142] Processed message from Machine 1 | Logical Clock: 456 | Length of Queue: 11
+[2025-03-05 04:02:56.062330] Queued message from Machine 3 with timestamp 480
+[2025-03-05 04:02:56.257720] Queued message from Machine 3 with timestamp 482
+[2025-03-05 04:02:56.289984] Processed message from Machine 3 | Logical Clock: 458 | Length of Queue: 12
+[2025-03-05 04:02:56.628649] Processed message from Machine 1 | Logical Clock: 459 | Length of Queue: 11
