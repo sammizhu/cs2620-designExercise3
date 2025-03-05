@@ -91,7 +91,7 @@ class VirtualMachine:
         self.log_event(f"Started with clock speed {self.clock_speed}")
 
         while True:
-            # start_time = time.time()
+            start_time = time.time()
             if not self.network_queue.empty():
                 # Check and process one message from the network queue per tick
                 self.process_network_queue()
