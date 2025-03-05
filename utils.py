@@ -77,7 +77,7 @@ class VirtualMachine:
         """Processes one message from the network queue if available."""
         sender_id, timestamp = self.network_queue.get()
         self.logical_clock.update(timestamp)
-        self.log_event(f"Processed message from Machine {sender_id} | Logical Clock: {self.logical_clock.time}")
+        self.log_event(f"Processed message from Machine {sender_id} | Logical Clock: {self.logical_clock.time} | Length of Queue: {self.network_queue.qsize()}")
 
     def log_event(self, event):
         """Logs events to a file."""
