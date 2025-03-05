@@ -15,4 +15,4 @@ To run the tests, simply run:
 - coverage report -m
 
 87% coverage was met for utils.py
-![alt text](images/coverage.png.png)
+![alt text](images/coverage.png)
